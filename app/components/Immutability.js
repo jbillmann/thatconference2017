@@ -8,6 +8,7 @@ export default class Immutability extends React.Component {
                 <hr />
                 <p>Redux reducers are pure functions that must not mutate state</p>
                 <p>If given an action and the current state then we must return a brand new state</p>
+                <p>It's about the data</p>
             </div>
         );
     }

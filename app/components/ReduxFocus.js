@@ -7,7 +7,6 @@ export default class ReduxFocus extends React.Component {
                 <h1>Development Experience</h1>
                 <hr />
                 <p>Live Code Editing</p>
-                <p>Hot Reloading</p>
                 <p>Time Travel Debugging</p>
             </div>
         );

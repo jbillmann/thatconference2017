@@ -8,7 +8,7 @@ export default class References extends React.Component {
                 <hr />
                 <p>Redux Docs - http://redux.js.org/</p>
                 <p>Redux Dev Tools - https://github.com/gaearon/redux-devtools</p>
-                <p>This Talk (Application) -  </p>
+                <p>This Talk (Application) - https://github.com/jbillmann/thatconference2017</p>
             </div>
         );
     }

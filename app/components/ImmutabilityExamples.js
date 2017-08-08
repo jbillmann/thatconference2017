@@ -8,7 +8,7 @@ export default class ImmutabilityExamples extends React.Component {
                 <hr />
                 <code>{'var personState = { firstName: "Jeremiah", lastName: "Billmann" };'}</code>
                 <br />
-                <code>{'// Bad... Impure'}</code>
+                <code>{'// Bad... Impure... Side Effect'}</code>
       <code>{`function clearLastName(person) {
     person.lastName = "";
     return person;
